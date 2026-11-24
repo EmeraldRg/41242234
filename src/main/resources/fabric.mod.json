@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "id": "miniassist",
+  "version": "${version}",
+  "name": "MiniAssist",
+  "description": "Expensive-inspired multi-widget HUD, configurable ClickGUI, smooth aim assistance and client-side quality-of-life modules for Minecraft 1.21.4.",
+  "environment": "client",
+  "entrypoints": {
+    "client": [
+      "dev.xetyk.miniassist.MiniAssistClient"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.16.0",
+    "minecraft": "~1.21.4",
+    "java": ">=21",
+    "fabric-api": "*"
+  }
+}

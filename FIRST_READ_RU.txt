@@ -1,0 +1,10 @@
+MINIASSIST 1.9.1
+
+1) Распакуй архив.
+2) Загрузи СОДЕРЖИМОЕ папки MiniAssist_1.9.1 в корень GitHub-репозитория.
+3) Не пропусти .github/workflows/build.yml.
+4) Commit changes.
+5) Actions -> MiniAssist Build -> Artifact MiniAssist-1.9.1.
+
+Minecraft 1.21.4 Fabric, Java 21. Имя JAR: zenith-client-1.9.1.jar.
+Полная компиляция должна подтвердиться GitHub Actions.
